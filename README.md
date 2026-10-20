@@ -30,135 +30,72 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global UI/UX design and prototyping software market is valued at approximately **$2.0B – $3.0B** (with prototyping-specific software accounting for ~$1.5B – $2.0B) and is expanding at an estimated **19% – 24% CAGR**. The sector is **highly concentrated (oligopolistic / winner-takes-most)**, dominated by Figma commanding an estimated 80%+ market share due to immense real-time collaboration network effects and centralized design system ecosystems, while peers and specialized platforms (Adobe Creative Cloud, Sketch, Framer, Axure) compete in adjacent web-publishing, enterprise specification, or native OS workflows.
 
 ## SaaS/Hosted Platforms
 
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier Limits / Free Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **Adobe (Adobe XD)** | ~$95B – $99B Market Cap (~$21B+ Revenue) | $59.99/month (via Creative Cloud All Apps; standalone discontinued) | 7-day free trial of Creative Cloud All Apps (full access during trial); standalone XD free starter tier is discontinued. | UI/UX design and prototyping application integrated within Adobe Creative Cloud; currently in maintenance mode with shifted focus. |
+| **Figma** | ~$10B – $13B Valuation / Market Cap (~$1.05B ARR) | $16/full seat/month (billed annually) or $20/month | Free forever: 3 Figma design files, 3 FigJam files, unlimited personal drafts, 1 project, 30-day version history, up to 500 AI credits/mo (no Dev Mode). | The industry-standard multiplayer collaborative interface design, prototyping, and design-system platform. |
+| **Framer** | ~$2B Valuation (~$50M – $83M ARR) | $10/site/month (Mini plan, billed annually) or $15/month | Free forever: 1,000 design pages, 10 CMS collections, 5 MB file upload limit, 1 translation locale, up to 3 workspace editors; published on `.framer.app` subdomain with a "Made in Framer" badge. | Interactive UI design and live site publishing tool with built-in CMS, responsive animations, and AI page generation. |
+| **InVision** | ~$1.9B – $2.0B Peak Valuation (Acquired/Sunset in 2024; assets sold to Miro) | Discontinued / Sunset ($7.95/user/mo prior to shutdown) | Services fully shut down as of December 31, 2024 (previously offered 1 active prototype on free tier; all user assets deleted). | Historically pioneering digital product design and prototype collaboration platform; ceased operations in late 2024. |
+| **Sketch** | ~$1B+ Historical Valuation (~$35M – $40M ARR) | $12/editor/month (billed annually) or $14/month | 30-day free trial with full access to Mac app, web workspace, and collaboration tools; no credit card required. | Native macOS interface design and vector graphics application with extensive plugin ecosystem and shared libraries. |
+| **Axure RP** | ~$10M – $25M Estimated Revenue | $25/user/month (Pro plan, billed annually) or $29/month | 30-day free trial of Axure RP 11 with full functionality (unlimited pages, dynamic panels, interactions, conditional logic). | Advanced UX prototyping tool built for complex interactions, conditional logic, dynamic content, and software specifications. |
+| **Proto.io** | ~$5M – $10M Estimated Revenue | $24/month (Freelancer plan, billed annually) or $29/month | 15-day free trial with full access to all interactive prototyping features, transitions, and testing tools; no credit card required. | High-fidelity, drag-and-drop interactive prototyping platform designed to produce code-free micro-interactions and mobile animations. |
+| **Marvel** | ~$3M – $7M Estimated Revenue | $12/month (Pro plan, billed annually) or $16/month | Free forever: 1 user, 1 active project limit, standard prototyping features and limited user testing. | Simple browser-based wireframing, prototyping, user testing, and developer handoff tool for quick design iterations. |
+| **Moqups** | ~$1.2M – $3.7M Estimated Revenue | $8/month (Solo plan, billed annually) or $11/month | Free forever: Up to 2 active projects, 400 objects limit per project, 25 MB image storage, up to 7 view-only collaborators, 2 watermarked exports. | Cloud-based wireframing, diagramming, mockup, and prototype collaboration software for product teams. |
 
-
-- **Figma**
-
-  The industry standard for collaborative interface design. Real-time multiplayer editing, component libraries, auto-layout (Flexbox wrapper), variables, and Dev Mode for developer handoff. **The most widely adopted design tool**—most design systems now live in Figma first. **Note**: Fully proprietary and cloud-hosted; no self-hosting option. Dev Mode is a paid add-on.
-
-
-
-- **Adobe XD**
-
-  Adobe's UI/UX design tool with prototyping, voice prototyping, and Creative Cloud integration. **Note**: Adobe has shifted focus away from XD—new feature development has slowed significantly. Best for teams already deeply embedded in the Adobe ecosystem.
-
-
-
-- **Sketch**
-
-  Mac-native design tool with a mature plugin ecosystem and symbol libraries. **Note**: Mac-only; cloud collaboration is weaker than Figma. Best for solo designers or Mac-centric teams with established Sketch workflows.
-
-
-
-- **Framer**
-
-  Design and publish production websites. The bridge between design tool and live site—AI-powered generation, CMS, effects, and responsive design. Best for marketing sites and prototypes that need to ship as real websites.
-
-
-
-- **Proto.io**
-
-  High-fidelity prototyping with no coding required. Drag-and-drop interactions, animated transitions, and user testing. Best for teams that need realistic interactive prototypes without design-system overhead.
-
-
-
-- **Axure RP**
-
-  The most powerful prototyping tool for complex logic. Conditional logic, dynamic content, and detailed specifications. Best for enterprise prototypes that need to model real application behavior.
-
-
-
-- **Marvel**
-
-  Design, prototype, and collaborate with an intuitive interface and user testing. Best for quick prototypes and usability testing sessions.
-
-
-
-- **Moqups**
-
-  Collaborative wireframing and diagramming tool with a clean interface. Best for early-stage wireframes and flow diagrams.
-
-
-
-- **InVision**
-
-  Digital product design platform with prototyping, design handoff, and design system management. **Note**: InVision has wound down its core product—historically important but not recommended for new projects.
-
-
+- **Note on Lunacy (Icons8)**: Proprietary desktop tool with built-in Icons8 assets. Free core app indefinitely (with attribution and 10 cloud docs); paid subscriptions start at $4.99/mo for cloud/team features or $9.99/mo for graphics assets without attribution.
 
 ## Open-Source GitHub Projects
 
+- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+  **Virtual whiteboard for sketching hand-drawn-like diagrams** (MIT) — **the whiteboarding choice**. Fun for whiteboarding and rough sketches—hand-drawn aesthetics, real-time collaboration, and an infinite canvas. **Not a design-system tool**: components are limited, and the file format isn't structured enough for serious production design work. **Best for**: brainstorming sessions, early-stage wireframing, and flow diagrams—**not production mockups**.
 
+- **[Open Design](https://github.com/nexu-io/open-design)** [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=social&color=white)](https://github.com/nexu-io/open-design/stargazers)  
+  **Local-first, agent-native design platform** (Apache-2.0) — **the AI-agent-driven choice**. Runs on your own machine with 21+ coding agents supported (Claude Code, Codex, Cursor, Gemini, OpenCode). 129 built-in design systems and 460+ plugins. More than prototypes: websites, slides, image generation, and HTML video. **Best for**: teams wanting agent-generated designs with local data sovereignty.
 
-- **Penpot**
+- **[Draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)  
+  **Desktop security-focused diagramming and wireframing application** (Apache-2.0) — **the diagramming standard**. Completely offline, cross-platform (Windows, macOS, Linux) wireframing and architecture diagramming application built around mxGraph. Supports extensive UI mockup stencils (iOS, Android, Bootstrap, mockups). **Best for**: technical wireframing, architecture flows, and offline enterprise security.
 
-  **The open-source design and prototyping platform for cross-domain teams** (MPL-2.0) — **the leading open-source Figma alternative** . **Built natively on open web standards**: **SVG** as the internal file format, **CSS Flex and Grid layouts** that behave like real code, and **HTML/CSS export** for developer handoff . **The critical differentiator**: **native CSS Grid support**—Figma's Auto Layout is a proprietary Flexbox wrapper that requires nested frames for grid layouts, while Penpot lets you define a 12-column grid and place items exactly as a developer would . **Inspect tab provides production-ready CSS, SVG, and HTML**—no plugin, no paywall. Figma's Dev Mode costs extra; Penpot's Inspect is free . **Self-hostable via Docker Compose** with six services: Frontend (Nginx + ClojureScript), Backend (JVM API), Exporter (Node.js + Puppeteer), PostgreSQL, Valkey, and MinIO . **Hardware requirements**: **1 vCPU / 2 GB RAM minimum**; 2+ vCPUs / 4 GB recommended . **Over 1 million users** and recognized as a **Digital Public Good** by the Digital Public Goods Alliance . **No seat limits on free plan**—unlimited designers and developers . **Design tokens** (W3C DTCG-compliant), **components and variants**, **interactive prototyping** with transitions and overlays, **real-time collaboration**, and a **plugin ecosystem with 100+ community plugins** . **Trade-offs**: **no built-in whiteboard** (whiteboard kit must be downloaded separately; FigJam is more polished) ; **prototyping animations are simpler than Figma's Smart Animate** ; **commenting and review workflows are less refined** than Figma's threaded comments . **The reference implementation for open-source design and prototyping**—**choose when data sovereignty, open standards, and zero per-seat costs outweigh Figma's collaboration polish**.
+- **[Penpot](https://github.com/penpot/penpot)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
+  **The open-source design and prototyping platform for cross-domain teams** (MPL-2.0) — **the leading open-source Figma alternative**. Built natively on open web standards: SVG as the internal file format, CSS Flex and Grid layouts that behave like real code, and HTML/CSS export for developer handoff. **The critical differentiator**: native CSS Grid support—Figma Auto Layout is a proprietary Flexbox wrapper that requires nested frames for grid layouts, while Penpot lets you define a 12-column grid and place items exactly as a developer would. Inspect tab provides production-ready CSS, SVG, and HTML without extra paywalls. Self-hostable via Docker Compose. Over 1 million users and recognized as a Digital Public Good.
 
+- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+  **Infinite canvas SDK and collaborative whiteboarding library** (tldraw license / open core) — **the developer canvas toolkit**. Highly extensible TypeScript library and React canvas component designed for building whiteboards, vector drawing canvases, and interactive diagrams with multiplayer sync out of the box. **Best for**: developers building custom whiteboard and prototyping experiences directly inside web applications.
 
+- **[Flowy](https://github.com/alyssaxuu/flowy)** [![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social&color=white)](https://github.com/alyssaxuu/flowy/stargazers)  
+  **Minimal flowchart and interactive flow engine** (GPL-3.0) — **the visual user journey builder**. Lightweight JavaScript flowchart engine for building flowchart and user journey wireframing functionality. Fast drag-and-drop node snapping with custom blocks and interactive flow logic. **Best for**: mapping out multi-step user navigation flows and onboarding journey prototypes.
 
-- **OpenPencil**
+- **[Pencil Project](https://github.com/evolus/pencil)** [![GitHub stars](https://img.shields.io/github/stars/evolus/pencil?style=social&color=white)](https://github.com/evolus/pencil/stargazers)  
+  **Classic GUI prototyping and desktop wireframing tool** (GPL-2.0) — **the offline wireframing veteran**. Mature, dedicated multi-platform GUI prototyping tool providing built-in shape collections for desktop and mobile UI mockups, page linking, and export to HTML, SVG, and PDF. **Best for**: engineers and product managers wanting an offline, lightweight wireframing tool for rapid user flow mockups.
 
-  **Open-source design editor that reads and writes .fig files natively** (open-source) — **the Figma file migration solution** . **Uses the same Kiwi binary codec Figma uses internally**—reads and writes `.fig` files natively rather than through a lossy conversion step . **Import paths**: save a local `.fig` copy in Figma and open it in OpenPencil, or copy layers in Figma and paste directly into OpenPencil—**fills, strokes, auto-layout, text, effects, corner radii, and vector networks all come through intact** . **A real vector editor** with components, instance overrides, design variables, auto-layout via flexbox and CSS Grid, and a pen tool—**not a static import** . **Exports**: SVG, PNG, JPG, WEBP, JSX with Tailwind, and back to `.fig` . **Active development since January 2026** . **Best for**: teams with years of `.fig` files who need a **genuine migration path** out of Figma's proprietary format.
+- **[OpenPencil](https://github.com/open-pencil/open-pencil)** [![GitHub stars](https://img.shields.io/github/stars/open-pencil/open-pencil?style=social&color=white)](https://github.com/open-pencil/open-pencil/stargazers)  
+  **Open-source design editor that reads and writes .fig files natively** (open-source) — **the Figma file migration solution**. Uses the same Kiwi binary codec Figma uses internally—reads and writes `.fig` files natively rather than through a lossy conversion step. Fills, strokes, auto-layout, text, effects, corner radii, and vector networks come through intact. Supports components, variables, auto-layout via flexbox/CSS Grid, and JSX export with Tailwind. **Best for**: teams with years of `.fig` files needing a genuine migration path out of Figma proprietary format.
 
+- **[Plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers)  
+  **Visual builder and headless CMS for front-end development** (open-source core) — **the code-centric choice**. Positions itself as developer-friendly, connecting visual drag-and-drop design directly into React, Next.js, and Gatsby codebases. **Best for**: teams already invested in React/Next.js wanting visual page building on top of production codebases.
 
+- **[Wireflow](https://github.com/vanila-io/wireflow)** [![GitHub stars](https://img.shields.io/github/stars/vanila-io/wireflow?style=social&color=white)](https://github.com/vanila-io/wireflow/stargazers)  
+  **Open-source wireframe user flow tool** (Apache-2.0) — **the rapid user flow mapper**. Lightweight collaborative web tool specifically made for creating user flow wireframes with over 100+ built-in graphic cards for common mobile and web screens, project collaboration, and live brainstorms. **Best for**: agile teams planning UX architecture and screen connections before high-fidelity visual design.
 
-- **Telva**
+- **[Inkscape](https://github.com/inkscape/inkscape)** [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)  
+  **Professional vector graphics editor** (GPL-2.0) — **the illustration choice**. Solid vector editor on Windows, macOS, and Linux built around standard W3C SVG format. Fundamentally a vector illustration tool rather than a UI/UX screen design tool, but widely used for custom iconography, vector assets, and brand design. **Best for**: logo design, vector asset creation, and illustration.
 
-  **Production-grade open-source vector design canvas that runs in the browser as a React component** (MIT) — **the embeddable design canvas** . **Drop it into your product, internal tool, or SaaS**—customize shapes, behavior, panels, and shortcuts; ship it as your own . **Killer feature**: **live, interactive React components as first-class canvas shapes**—not iframes, but your actual component tree rendered on an infinite canvas . **Full feature set**: rectangle, ellipse, triangle, arrow, freehand draw, text, sticky note, image, video, group, and React component shapes; infinite canvas with pan/zoom; multi-select, group, rotate, resize, flip, align, distribute; snap-to-grid and snap-to-shape; undo/redo; dark/light mode; layers panel; page management; export to PNG with configurable DPI and SVG . **Real-time multiplayer** with live cursor presence via Liveblocks or your own backend . **Best for**: developers wanting **a design canvas embedded inside their application**—white-label, self-hostable, and fully customizable.
+- **[Quant-UX](https://github.com/KlausSchaefers/quant-ux)** [![GitHub stars](https://img.shields.io/github/stars/KlausSchaefers/quant-ux?style=social&color=white)](https://github.com/KlausSchaefers/quant-ux/stargazers)  
+  **Prototyping and automated usability testing platform** (Apache-2.0) — **the usability analytics pioneer**. Open-source tool that combines interactive visual prototyping with integrated usability testing and heatmaps. Records user interaction metrics, task completion durations, heatmaps, and screen transitions to evaluate UX designs quantitatively. **Best for**: UX researchers and designers seeking data-driven user testing on interactive prototypes.
 
-
-
-- **Excalidraw**
-
-  **Virtual whiteboard for sketching hand-drawn-like diagrams** (MIT) — **the whiteboarding choice** . **Fun for whiteboarding and rough sketches**—hand-drawn aesthetics, real-time collaboration, and an infinite canvas. **Not a design-system tool**: components are limited, and the file format isn't structured enough for serious production design work . **Best for**: brainstorming sessions, early-stage wireframing, and flow diagrams—**not production mockups**.
-
-
-
-- **Plasmic**
-
-  **Visual builder and headless CMS for front-end development** (open-source core) — **the code-centric choice** . **Positions itself as developer-friendly**, but the workflow can feel convoluted—"constantly fighting the tool instead of designing"—and codebase integration is clunkier than Penpot's native export capabilities . **Best for**: teams already invested in Plasmic's component model who want visual editing on top of code.
-
-
-
-- **Lunacy**
-
-  **Free design tool with a Figma-like interface** (proprietary, free) — **the lightweight choice** . **Snappy to use and came closest to replacing Figma** in hands-on testing, but **light on features**—component management and design-system capabilities were missing . **Best for**: solo designers needing a free tool for simple layouts, not design-system work.
-
-
-
-- **Inkscape**
-
-  **Professional vector graphics editor** (GPL-2.0) — **the illustration choice** . **Solid vector editor** on Windows, macOS, and Linux. **Fundamentally a vector illustration tool, not a UI design tool**—"if you spend your days designing logos and illustrations, give it a shot. If you're building user interfaces, it's not quite the right tool" . **Best for**: logo design, illustration, and print graphics—**not interface prototyping**.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Open Design** — Local-first, agent-native design platform (Apache-2.0) — **the AI-agent-driven choice** . **Runs on your own machine** with **21+ coding agents supported** (Claude Code, Codex, Cursor, Gemini, OpenCode) . **129 built-in design systems and 460+ plugins** . **More than prototypes**: websites, slides, image generation, and HTML video . **Best for**: teams wanting **agent-generated designs** with local data sovereignty.
-
-- **Penpot Exporter** — Figma plugin for migrating files to Penpot (open-source) — **the migration bridge** . **Exports `.fig` files as `.penpot` zip** for import. **Works on smaller files**; larger files may fail partway through, and color variables don't always come through . **Best for**: teams making the Figma-to-Penpot switch.
-
-- Community **n8n** workflows for design file export automation and design system token synchronization.
-
-
-
-**Frameworks for building custom systems**: Combine **Penpot** for the core design and prototyping platform with **OpenPencil** for `.fig` migration, **Telva** for embedding a design canvas inside your application, and **Excalidraw** for whiteboarding—creating a comprehensive open design stack that spans ideation to production handoff.
-
-
+- **[Penpot Exporter Figma Plugin](https://github.com/penpot/penpot-exporter-figma-plugin)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot-exporter-figma-plugin?style=social&color=white)](https://github.com/penpot/penpot-exporter-figma-plugin/stargazers)  
+  **Figma plugin for migrating files to Penpot** (MPL-2.0) — **the migration bridge**. Exports `.fig` files as `.penpot` zip packages for straightforward import into self-hosted or cloud Penpot instances. **Best for**: teams making the Figma-to-Penpot transition.
 
 ## How to Contribute
 
