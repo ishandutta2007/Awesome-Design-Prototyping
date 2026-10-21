@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Design-Prototyping/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Design-Prototyping?style=for-the-badge&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Design-Prototyping/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Design-Prototyping?style=for-the-badge&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Design-Prototyping/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Design-Prototyping?style=for-the-badge&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Design-Prototyping/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Design-Prototyping?style=for-the-badge&color=success" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Design-Prototyping/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Design-Prototyping?style=for-the-badge&color=orange" alt="License" /></a>
@@ -69,45 +69,45 @@ Below is a detailed benchmark of industry-standard hosted SaaS design and protot
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source design tools, vector drawing engines, and collaborative prototyping frameworks. Sorted in descending order by **GitHub Star Count**:
+Curated open-source design tools, vector drawing engines, and collaborative prototyping frameworks. Sorted in descending order by **GitHub Stars_Count**:
 
-- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
   ✏️ **Virtual whiteboard for sketching hand-drawn diagrams** *(MIT License)* — **The whiteboarding choice**. Fun for whiteboarding and rough sketches—hand-drawn aesthetics, real-time collaboration, and an infinite canvas. **Not a design-system tool**: components are limited, and the file format isn't structured enough for production design systems. **Best for**: brainstorming sessions, early-stage wireframing, and flow diagrams—**not production mockups**.
 
-- **[Open Design](https://github.com/nexu-io/open-design)** [![GitHub stars](https://img.shields.io/github/stars/nexu-io/open-design?style=social&color=white)](https://github.com/nexu-io/open-design/stargazers)  
+- **[Open Design](https://github.com/nexu-io/open-design)** [![GitHub_Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=social&color=white)](https://github.com/nexu-io/open-design/stargazers)  
   🤖 **Local-first, agent-native design platform** *(Apache-2.0)* — **The AI-agent-driven choice**. Runs on your own machine with 21+ coding agents supported (Claude Code, Codex, Cursor, Gemini, OpenCode). 129 built-in design systems and 460+ plugins. Generates landing pages, UI prototypes, slides, and production-ready code with local data sovereignty.
 
-- **[Draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)  
+- **[Draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)  
   📐 **Desktop security-focused diagramming and wireframing application** *(Apache-2.0)* — **The diagramming standard**. Completely offline, cross-platform (Windows, macOS, Linux) wireframing and architecture diagramming application built around mxGraph. Supports extensive UI mockup stencils (iOS, Android, Bootstrap, mockups). **Best for**: technical wireframing, architecture flows, and offline enterprise security.
 
-- **[Penpot](https://github.com/penpot/penpot)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
+- **[Penpot](https://github.com/penpot/penpot)** [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
   🎨 **The open-source design and prototyping platform for cross-domain teams** *(MPL-2.0)* — **The leading open-source Figma alternative**. Built natively on open web standards: SVG as internal format, CSS Flex and Grid layouts that behave like real code, and HTML/CSS export for developer handoff. Native CSS Grid support lets you define true 12-column layouts without nested hack frames. Inspect tab provides production CSS, SVG, and HTML without paywalls. Self-hostable via Docker Compose.
 
-- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
   🖌️ **Infinite canvas SDK and collaborative whiteboarding library** *(tldraw license / open core)* — **The developer canvas toolkit**. Highly extensible TypeScript library and React canvas component designed for building whiteboards, vector drawing canvases, and interactive diagrams with multiplayer sync out of the box. **Best for**: developers building custom whiteboard and prototyping experiences directly inside web applications.
 
-- **[Flowy](https://github.com/alyssaxuu/flowy)** [![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social&color=white)](https://github.com/alyssaxuu/flowy/stargazers)  
+- **[Flowy](https://github.com/alyssaxuu/flowy)** [![GitHub_Stars](https://img.shields.io/github/stars/alyssaxuu/flowy?style=social&color=white)](https://github.com/alyssaxuu/flowy/stargazers)  
   🔀 **Minimal flowchart and interactive flow engine** *(GPL-3.0)* — **The visual user journey builder**. Lightweight JavaScript flowchart engine for building flowchart and user journey wireframing functionality. Fast drag-and-drop node snapping with custom blocks and interactive flow logic. **Best for**: mapping out multi-step user navigation flows and onboarding journey prototypes.
 
-- **[Pencil Project](https://github.com/evolus/pencil)** [![GitHub stars](https://img.shields.io/github/stars/evolus/pencil?style=social&color=white)](https://github.com/evolus/pencil/stargazers)  
+- **[Pencil Project](https://github.com/evolus/pencil)** [![GitHub_Stars](https://img.shields.io/github/stars/evolus/pencil?style=social&color=white)](https://github.com/evolus/pencil/stargazers)  
   📝 **Classic GUI prototyping and desktop wireframing tool** *(GPL-2.0)* — **The offline wireframing veteran**. Mature, dedicated multi-platform GUI prototyping tool providing built-in shape collections for desktop and mobile UI mockups, page linking, and export to HTML, SVG, and PDF. **Best for**: engineers and product managers wanting an offline, lightweight wireframing tool for rapid user flow mockups.
 
-- **[OpenPencil](https://github.com/open-pencil/open-pencil)** [![GitHub stars](https://img.shields.io/github/stars/open-pencil/open-pencil?style=social&color=white)](https://github.com/open-pencil/open-pencil/stargazers)  
+- **[OpenPencil](https://github.com/open-pencil/open-pencil)** [![GitHub_Stars](https://img.shields.io/github/stars/open-pencil/open-pencil?style=social&color=white)](https://github.com/open-pencil/open-pencil/stargazers)  
   📦 **Open-source design editor that reads and writes .fig files natively** *(Open Source)* — **The Figma file migration solution**. Uses the same Kiwi binary codec Figma uses internally—reads and writes `.fig` files natively rather than through a lossy conversion step. Fills, strokes, auto-layout, text, effects, corner radii, and vector networks come through intact. Supports components, variables, auto-layout via flexbox/CSS Grid, and JSX export with Tailwind.
 
-- **[Plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers)  
+- **[Plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub_Stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers)  
   🧩 **Visual builder and headless CMS for front-end development** *(Open Source core)* — **The code-centric choice**. Positions itself as developer-friendly, connecting visual drag-and-drop design directly into React, Next.js, and Gatsby codebases. **Best for**: teams already invested in React/Next.js wanting visual page building on top of production codebases.
 
-- **[Wireflow](https://github.com/vanila-io/wireflow)** [![GitHub stars](https://img.shields.io/github/stars/vanila-io/wireflow?style=social&color=white)](https://github.com/vanila-io/wireflow/stargazers)  
+- **[Wireflow](https://github.com/vanila-io/wireflow)** [![GitHub_Stars](https://img.shields.io/github/stars/vanila-io/wireflow?style=social&color=white)](https://github.com/vanila-io/wireflow/stargazers)  
   📱 **Open-source wireframe user flow tool** *(Apache-2.0)* — **The rapid user flow mapper**. Lightweight collaborative web tool specifically made for creating user flow wireframes with over 100+ built-in graphic cards for common mobile and web screens, project collaboration, and live brainstorms. **Best for**: agile teams planning UX architecture and screen connections before high-fidelity visual design.
 
-- **[Inkscape](https://github.com/inkscape/inkscape)** [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)  
+- **[Inkscape](https://github.com/inkscape/inkscape)** [![GitHub_Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=social&color=white)](https://github.com/inkscape/inkscape/stargazers)  
   ✒️ **Professional vector graphics editor** *(GPL-2.0)* — **The illustration choice**. Solid vector editor on Windows, macOS, and Linux built around standard W3C SVG format. Fundamentally a vector illustration tool rather than a UI/UX screen design tool, but widely used for custom iconography, vector assets, and brand design. **Best for**: logo design, vector asset creation, and illustration.
 
-- **[Quant-UX](https://github.com/KlausSchaefers/quant-ux)** [![GitHub stars](https://img.shields.io/github/stars/KlausSchaefers/quant-ux?style=social&color=white)](https://github.com/KlausSchaefers/quant-ux/stargazers)  
+- **[Quant-UX](https://github.com/KlausSchaefers/quant-ux)** [![GitHub_Stars](https://img.shields.io/github/stars/KlausSchaefers/quant-ux?style=social&color=white)](https://github.com/KlausSchaefers/quant-ux/stargazers)  
   🧪 **Prototyping and automated usability testing platform** *(Apache-2.0)* — **The usability analytics pioneer**. Open-source tool that combines interactive visual prototyping with integrated usability testing and heatmaps. Records user interaction metrics, task completion durations, heatmaps, and screen transitions to evaluate UX designs quantitatively. **Best for**: UX researchers and designers seeking data-driven user testing on interactive prototypes.
 
-- **[Penpot Exporter Figma Plugin](https://github.com/penpot/penpot-exporter-figma-plugin)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot-exporter-figma-plugin?style=social&color=white)](https://github.com/penpot/penpot-exporter-figma-plugin/stargazers)  
+- **[Penpot Exporter Figma Plugin](https://github.com/penpot/penpot-exporter-figma-plugin)** [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot-exporter-figma-plugin?style=social&color=white)](https://github.com/penpot/penpot-exporter-figma-plugin/stargazers)  
   🌉 **Figma plugin for migrating files to Penpot** *(MPL-2.0)* — **The migration bridge**. Exports `.fig` files as `.penpot` zip packages for straightforward import into self-hosted or cloud Penpot instances. **Best for**: teams making the Figma-to-Penpot transition.
 
 ---
